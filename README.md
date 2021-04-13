@@ -8,3 +8,19 @@
 - 6주차 - [상속](./study/20210328.md)
 - 7주차 - [패키지](./study/20210405.md)
 - 8주차 - [인터페이스](./study/20210406.md)
+- 9주차 - [예외처리](./study/20210406.md)
+- 10주차 - [인터페이스](./study/20210406.md)
+
+# 따로 정리가 필요한것
+---
+- Comparable과 Comparator
+- JVM Warm Up, Cold Start
+- JIT 컴파일러 사용 이유(속도차이)
+- JIT 컴파일러, HotSpot, GraalVM
+- GC 과정(Young 영역에서 Old 영역으로 가는 기준), GC 튜닝
+- JDK 8 이상 G1 GC
+- Generic 공변성, 반공변성
+- ArrayList와 LinkedList의 사이즈 증가 과정
+- 멀티 쓰레드의 Lock 동작 과정
+- Blocking, Non-Blocking, Sync, Async
+
