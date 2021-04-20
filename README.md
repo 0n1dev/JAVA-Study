@@ -24,3 +24,9 @@
 - 멀티 쓰레드의 Lock 동작 과정
 - Blocking, Non-Blocking, Sync, Async
 
+---
+
+- HTTP의 프로토콜 수준의 구조
+- HTTP의 통신이 실제로 어떻게 일어나는지?
+- (optional) HTTP의 버전별 차이
+- Transaction의 특성 (ACID)
