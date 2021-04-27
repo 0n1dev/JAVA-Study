@@ -30,3 +30,10 @@
 - HTTP의 통신이 실제로 어떻게 일어나는지?
 - (optional) HTTP의 버전별 차이
 - Transaction의 특성 (ACID)
+
+---
+
+- Object Oriented의 정의 찾아보기
+- 자바 클래스 생성 시 코드 실행 순서 확인해보기 (static, 멤버 변수 선언, static 블록, 초기화 블록, 생성자 등)
+- 클래스(Class), 객체(Object), 인스턴스(Instance) 의 단어가 지칭하는게 어떤건지 명확하게 정리해보기
+- 디자인패턴이 적용된 코드의 예제 찾아보기
